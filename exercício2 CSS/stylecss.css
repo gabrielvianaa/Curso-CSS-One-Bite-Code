@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+
+div{
+    background-color: #fffafa ;
+    margin: 0px auto 0px auto;
+    width: 70%;
+    height: 100%;
+    padding-top: 10px;
+}
+.date{
+    color: #008080;
+    font-family:roboto, sans-serif;
+} 
+h1{
+    font-family: montserrat,sans-serif;
+}
+.content{
+    font-family: opensans, sans-serif;
+    width: 90%;
+}
